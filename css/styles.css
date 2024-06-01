@@ -291,7 +291,9 @@ p {
 }
 
 .people {
-  padding: 32px 0;
+  padding-top: 32px;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 .info-title-two {
@@ -338,6 +340,11 @@ p {
 
 .svg-class {
   fill: #f4f4fd;
+}
+
+.andere-div {
+  padding-top: 8px;
+  padding-bottom: 32px;
 }
 
 /* ----------SECTION 3 END---------- */
